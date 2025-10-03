@@ -1,5 +1,3 @@
----
-
 ## ✨ Features
 
 * **GPS Location Stamping** – Capture latitude, longitude, and address with every photo.
