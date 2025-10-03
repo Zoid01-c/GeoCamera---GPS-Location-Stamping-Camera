@@ -1,6 +1,3 @@
-Got it ✅ Let’s clean it up and make the README **properly aligned, professional, and easy to read**.
-Here’s a neatly structured **Kotlin-based README** you can directly paste into GitHub:
-
 ---
 
 ## ✨ Features
