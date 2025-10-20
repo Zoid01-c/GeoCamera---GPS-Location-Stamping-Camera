@@ -1,58 +1,83 @@
+# 🌍 GeoSnap — GPS Location, Weather & Satellite Stamping Camera
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Zoid01-c/GeoCamera---GPS-Location-Stamping-Camera)
+![GitHub stars](https://img.shields.io/github/stars/Zoid01-c/GeoCamera---GPS-Location-Stamping-Camera)
+![GitHub license](https://img.shields.io/github/license/Zoid01-c/GeoCamera---GPS-Location-Stamping-Camera)
+![Android](https://img.shields.io/badge/platform-Android-brightgreen)
+![Language](https://img.shields.io/badge/language-Kotlin-blue)
+
+> Capture stunning **geo-tagged photos** enriched with **GPS coordinates**, **timestamp**, **weather information**, and **satellite map overlays** — all in one sleek, modern Android camera app.
+
+---
+
 ## ✨ Features
 
-* **GPS Location Stamping** – Capture latitude, longitude, and address with every photo.
-* **Timestamp Overlay** – Automatically adds real-time date & time.
-* **Photo & Video Mode** – Switch easily between photo and video capture.
-* **Modern Camera UI** – Minimal and intuitive interface with CameraX.
-* **Gallery Integration** – Quick preview of captured media.
-* **Custom Overlays (Coming Soon)** – Map snippets, compass info, weather details.
+- 🛰️ **GPS Location Stamping** – Capture latitude, longitude, and address with every photo.  
+- ⏰ **Timestamp Overlay** – Automatically adds the exact date and time.  
+- 🌦️ **Weather Info Overlay** – Display real-time temperature, condition, and humidity.  
+- 🗺️ **Satellite Overlay** – Add a satellite map snippet of your capture location.  
+- 🎨 **Modern Camera UI** – Clean, minimal interface built with CameraX & Material Design 3.  
+- 🖼️ **Gallery Integration** – Instantly preview captured photos.  
+- 🧭 **Custom Overlays (Coming Soon)** – Compass direction and watermark/logo support.  
 
 ---
 
 ## 🎯 Use Cases
 
-* 🌍 **Travelers & Adventurers** – Capture scenic memories with precise geo-tags.
-* 🏗 **Construction & Field Work** – Maintain geo-stamped site photos.
-* 🚁 **Survey & Research** – Document locations with verified coordinates.
-* 🗺 **Explorers & Bloggers** – Share location-verified photos and videos.
+- 🌍 **Travelers & Adventurers** – Capture scenic memories with GPS + weather data.  
+- 🏗 **Construction & Field Work** – Maintain location-stamped, weather-verified site photos.  
+- 🚁 **Survey & Research** – Record precise environmental context for reports.  
+- 🗺 **Explorers & Bloggers** – Share authentic, data-rich visuals.  
 
 ---
 
 ## ⚡ Tech Stack
 
-* **Language**: Kotlin
-* **Framework**: Android Jetpack (ViewModel, LiveData)
-* **Camera**: CameraX API
-* **Location**: Google Play Services Location
-* **UI**: Material Design 3 (MD3)
+| Component | Technology |
+|------------|-------------|
+| **Language** | Kotlin |
+| **Framework** | Android Jetpack (ViewModel, LiveData) |
+| **Camera** | CameraX API |
+| **Location** | Google Play Services Location |
+| **Weather API** | OpenWeather / APIXU |
+| **UI** | Material Design 3 (MD3) |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Download the Latest Release
+
+📦 **[Download GeoSnap v1.1.4](https://github.com/Zoid01-c/GeoCamera---GPS-Location-Stamping-Camera/releases/tag/v1.1.4)**  
+✅ Works on Android 8.0 (API 24) and above.  
+
+---
+
+## 🧩 Getting Started
 
 ### Prerequisites
 
-* Android Studio (latest version)
-* Android SDK 24+
-* Google Maps / Location API key
+- Android Studio (latest version)  
+- Android SDK 24+  
+- Google Maps / Location API key  
+- (Optional) Weather API key for live weather integration  
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/geocamera.git
+git clone https://github.com/Zoid01-c/GeoCamera---GPS-Location-Stamping-Camera.git
 
 # Open in Android Studio
 # Sync Gradle dependencies
-# Run on emulator or device
-```
+# Run on emulator or physical device
+````
 
 ---
 
 ## 🔮 Roadmap
 
-* [ ] Map overlay on captured photos
-* [ ] Weather & compass integration
+* [x] Weather info overlay
+* [x] Satellite overlay
+* [ ] Compass integration
 * [ ] Custom watermark/logo support
 * [ ] Cloud backup & sharing
 
@@ -62,7 +87,7 @@ git clone https://github.com/your-username/geocamera.git
 
 Contributions are always welcome!
 
-1. Fork the repo
+1. Fork the repository
 2. Create a feature branch
 3. Commit your changes
 4. Submit a pull request 🚀
@@ -77,9 +102,15 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💡 Acknowledgements
 
-* Built with ❤️ using Kotlin
-* Powered by **CameraX** + **Google Location Services**
-* Inspired by **GPS Map Camera apps**
+* Built with ❤️ using **Kotlin**
+* Powered by **CameraX**, **Google Location Services**, and **Weather APIs**
+* Inspired by professional **geo-tagging and field photography** tools
 
 ---
 
+📸 **GeoSnap — Capture. Tag. Forecast. Remember.**
+
+```
+
+Would you like me to also write a short **GitHub release note (v1.1.4)** summarizing what’s new (Weather Overlay + Satellite Overlay + UI improvements)? It’ll make your releases page look professional.
+```
