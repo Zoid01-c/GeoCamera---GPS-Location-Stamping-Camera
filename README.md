@@ -94,12 +94,6 @@ Contributions are always welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 💡 Acknowledgements
 
 * Built with ❤️ using **Kotlin**
@@ -110,7 +104,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 📸 **GeoSnap — Capture. Tag. Forecast. Remember.**
 
-```
 
-Would you like me to also write a short **GitHub release note (v1.1.4)** summarizing what’s new (Weather Overlay + Satellite Overlay + UI improvements)? It’ll make your releases page look professional.
-```
